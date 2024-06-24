@@ -1,7 +1,7 @@
 ![하나은행디지털하나로로고](https://github.com/HRHRHRSSS/IToutsourcing_data_project/assets/138752144/9d1330a5-9adb-4a67-afc6-0c2749ea6509)
 <br>
 
-# 👩‍💻 IT 아웃소싱 플랫폼 L사: 사용자를 위한 서비스 분류 세분화와 리뷰 개선,<br> 전문가 등급제 도입으로 기존 수수료 체계 개선을 통한 매출 증대 
+# 👩‍💻 IT 아웃소싱 플랫폼 L사: 사용자를 위한 서비스 분류 세분화와 리뷰 개선,전문가 등급제 도입으로 기존 수수료 체계 개선을 통한 매출 증대 
 
 # 📌 서비스 개요
 ![1](https://github.com/HRHRHRSSS/IToutsourcing_data_project/assets/138752144/6b80bfe6-5a2c-4633-96e7-01b7c0549329)
